@@ -11,8 +11,8 @@ Task 1 involves creating a chatbot capable of recognizing greetings, answering q
 3. Type 'exit' to end the conversation.
 4. Restart by typing 'start' after ending the conversation.
 
-**Contributors:**  
-Your Name
+**Author:**  
+Viraj N.Bhutada
 
 **Acknowledgments:**  
 Thanks to Codsoft AI Internship for the opportunity.
@@ -30,14 +30,12 @@ Task 2 challenges you to implement an AI agent capable of playing Tic-Tac-Toe ag
 2. Play Tic-Tac-Toe against the AI.
 3. Experience strategic gameplay against an intelligent opponent.
 
-**Contributors:**  
-Your Name
+**Author:**  
+Viraj N.Bhutada
 
 **Acknowledgments:**  
 Thanks to Codsoft AI Internship for the opportunity.
 
-**License:**  
-[Choose your license type, e.g., MIT License]
 
 ---
 
@@ -51,8 +49,8 @@ Task 3 involves combining computer vision and natural language processing to bui
 2. Implement an RNN or transformer-based model for image caption generation.
 3. Generate captions for images using the trained model.
 
-**Contributors:**  
-Your Name
+**Author:**  
+Viraj N.Bhutada
 
 **Acknowledgments:**  
 Thanks to Codsoft AI Internship for the opportunity.
