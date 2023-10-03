@@ -15,7 +15,7 @@ Task 1 involves creating a chatbot capable of recognizing greetings, answering q
 Viraj N.Bhutada
 
 **Acknowledgments:**  
-Thanks to Codsoft AI Internship for the opportunity.
+Thanks to Codsoft Team for the valuable opportunity during the Codsoft AI Internship
 
 
 ---
@@ -34,7 +34,7 @@ Task 2 challenges you to implement an AI agent capable of playing Tic-Tac-Toe ag
 Viraj N.Bhutada
 
 **Acknowledgments:**  
-Thanks to Codsoft AI Internship for the opportunity.
+Thanks to Codsoft Team for the valuable opportunity during the Codsoft AI Internship.
 
 
 ---
@@ -50,7 +50,9 @@ Task 3 involves creating a movie recommendation system utilizing techniques from
 3. Enhance user experience by offering relevant and engaging movie suggestions.
    
 **Author:**
+
 Viraj N.Bhutada
 
 **Acknowledgments:**
-Thanks to Codsoft AI Internship for the opportunity.
+
+Thanks to Codsoft Team for the valuable opportunity during the Codsoft AI Internship.
