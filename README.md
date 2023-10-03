@@ -39,19 +39,18 @@ Thanks to Codsoft AI Internship for the opportunity.
 
 ---
 
-## Task 3: Image Captioning
-
+## Task 3: Recommendation System (Movies)
 **Description:**
-Task 3 involves combining computer vision and natural language processing to build an image captioning AI. Utilize pre-trained image recognition models like VGG or ResNet to extract features from images. Then, employ a recurrent neural network (RNN) or transformer-based model to generate descriptive captions for these images.
+Task 3 involves creating a movie recommendation system utilizing techniques from collaborative filtering or content-based filtering. This system provides personalized movie suggestions to users based on their preferences and viewing history. By implementing algorithms to analyze user behavior and movie features, the recommendation system enhances user engagement and satisfaction, showcasing the power of AI in providing tailored entertainment choices.
 
 **Usage:**
-1. Utilize pre-trained image recognition models for feature extraction.
-2. Implement an RNN or transformer-based model for image caption generation.
-3. Generate captions for images using the trained model.
 
-**Author:**  
+1. Implement collaborative filtering or content-based filtering algorithms.
+2. Analyze user preferences and movie features to generate personalized recommendations.
+3. Enhance user experience by offering relevant and engaging movie suggestions.
+   
+**Author:**
 Viraj N.Bhutada
 
-**Acknowledgments:**  
+**Acknowledgments:**
 Thanks to Codsoft AI Internship for the opportunity.
-
