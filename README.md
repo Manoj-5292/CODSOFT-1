@@ -43,6 +43,8 @@ Thanks to Codsoft Team for the valuable opportunity during the Codsoft AI Intern
 **Description:**
 Task 3 involves creating a movie recommendation system utilizing techniques from collaborative filtering or content-based filtering. This system provides personalized movie suggestions to users based on their preferences and viewing history. By implementing algorithms to analyze user behavior and movie features, the recommendation system enhances user engagement and satisfaction, showcasing the power of AI in providing tailored entertainment choices.
 
+Dataset - https://raw.githubusercontent.com/YBI-Foundation/Dataset/main/Movies%20Recommendation.csv
+
 **Usage:**
 
 1. Implement collaborative filtering or content-based filtering algorithms.
